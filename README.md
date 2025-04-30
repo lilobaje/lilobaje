@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lilobaje
+- 👋 Hi, I’m Obaje John
 - 👀 I’m interested in Web Development ...
-- 🌱 I’m currently learning Javascript,Django
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Web development Projects
 - 📫 How to reach me message me on whatsapp +2348032751804
 
